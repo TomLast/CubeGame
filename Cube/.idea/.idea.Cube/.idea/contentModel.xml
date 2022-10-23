@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\tomla\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\tomla\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Cube.1012222594.00" t="ExcludeRecursive" />
+    <e p="D:\GitHub\Cube\Cube" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Core" t="Include">
+            <e p="Actions" t="Include">
+              <e p="Action.cs" t="Include" />
+              <e p="ActionParallel.cs" t="Include" />
+              <e p="ActionSequence.cs" t="Include" />
+              <e p="LerpType.cs" t="Include" />
+              <e p="MoveAction.cs" t="Include" />
+              <e p="Task.cs" t="Include" />
+            </e>
+            <e p="SOSystems" t="Include">
+              <e p="CoroutineHandler.cs" t="Include" />
+              <e p="SOSystem.cs" t="Include" />
+              <e p="SOSystemUpdater.cs" t="Include" />
+              <e p="Testo.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Map" t="Include">
+            <e p="Cell.cs" t="Include" />
+            <e p="CubeSide.cs" t="Include" />
+            <e p="Map.cs" t="Include" />
+            <e p="MapGenerator.cs" t="Include" />
+            <e p="mbCell.cs" t="Include" />
+          </e>
+          <e p="Player" t="Include">
+            <e p="PlayerController.cs" t="Include" />
+          </e>
+          <e p="Rotatator.cs" t="Include" />
+          <e p="Rotato.cs" t="Include" />
+          <e p="UIScript.cs" t="Include" />
+          <e p="Utilities" t="Include">
+            <e p="FloatVariable.cs" t="Include" />
+            <e p="TakHelper.cs" t="Include" />
+            <e p="Variable.cs" t="Include" />
+            <e p="VariableReference.cs" t="Include" />
+            <e p="VectorVariable.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Cube.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
